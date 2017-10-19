@@ -1,2 +1,0 @@
-# MySQL
-Nghĩa điên
